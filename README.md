@@ -1,6 +1,6 @@
 # Hi, I'm Anurag Dashore 👋
 
-### *B.E Mechanical Engineering (Final Year) @ IET-DAVV | Transitioning into AI Engineering & Software Development*
+### *B.E (Final Year) @ IET-DAVV | Transitioning into AI Engineering & Software Development*
 
 ## Connect with Me:🔽
 
