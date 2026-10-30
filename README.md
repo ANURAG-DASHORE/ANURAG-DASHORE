@@ -9,6 +9,7 @@
 * **LinkedIn:** [anurag-dashore](https://linkedin.com/in/anurag-dashore)
 * **GitLab:** [anuragdashore1024](https://gitlab.com/anuragdashore1024)
 * **Discord:** [anurag_dashore](https://discord.com/users/1514340414692528179) | @AD1024
+* **X:** [AD1024x](https://x.com/AD1024x)
 
 ## Projects and Demo videos :
 * **Devpost:** [anuragdashore1024](https://devpost.com/anuragdashore1024)
